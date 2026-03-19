@@ -5,7 +5,7 @@
 
 - I’m currently working on [orinium org](https://github.com/Orinium-browser/)
 
-- I'm currenty contribute to [Orinium](https://github.com/Orinium-browser/)
+- I'm currenty develop to [mochiOS](https://github.com/tas0dev/mochiOS)
 
 - I’m currently learning **Rust**
 
