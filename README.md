@@ -16,7 +16,8 @@ Ask me about **C**
 
 I love beautiful things :D
 
-[![tas0dev's GitHub stats](https://github-readme-stats-seven-gamma-98.vercel.app/api?username=tas0dev)]
+![tas0dev's GitHub stats](https://github-readme-stats-seven-gamma-98.vercel.app/api?username=tas0dev)
+![top6lang](output/top6_lang.svg)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tas0dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tas0dev" height="30" width="40" /></a>
