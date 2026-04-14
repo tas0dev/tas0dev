@@ -16,7 +16,7 @@ Ask me about **C**
 
 I love beautiful things :D
 
-![tas0dev's GitHub stats](https://github-readme-stats-seven-gamma-98.vercel.app/api?username=tas0dev)
+![stats](https://github-readme-stats-nek0dev.vercel.app/api?username=tas0dev)
 ![top6lang](output/top6_lang.svg)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
