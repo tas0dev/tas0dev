@@ -32,34 +32,34 @@
  <rect x="0.5" y="0.5" width="429" height="303" rx="4.5" ry="4.5" stroke="#3D444D"/>
   <text id="title" x="33" y="40" font-size="14" font-weight="bold" fill="#fff" font-family="system-ui, -apple-system, sans-serif">Most Used Languages</text>
   <text id="topLang" class="top" x="135" y="80" font-size="38" dominant-baseline="middle" text-anchor="middle" font-weight="bold" fill='#fff' font-family="system-ui, -apple-system, sans-serif">C</text>
-  <text id="topPercent" class="top" x="330" y="70" font-size="28" font-weight="bold" fill='#fff' font-family="system-ui, -apple-system, sans-serif" dominant-baseline="middle" text-anchor="middle" >33.48%</text>
+  <text id="topPercent" class="top" x="330" y="70" font-size="28" font-weight="bold" fill='#fff' font-family="system-ui, -apple-system, sans-serif" dominant-baseline="middle" text-anchor="middle" >32.83%</text>
   <text id="topByte" class="top" x="330" y="95" font-size="16" font-weight="normal" fill='#fff' font-family="system-ui, -apple-system, sans-serif" dominant-baseline="middle" text-anchor="middle" >2692266 bytes</text>
 
   <rect x="14" y="115.8" width="400" height="1" fill="url(#animeGrad)" />
 
 <g transform="translate(0, 0)" class="langRow">
-  <text x="33" y="150" font-size="16" font-weight="bold" fill="#fff" font-family="system-ui, -apple-system, sans-serif">Rust  <tspan font-size="13" fill="#B6B6B6" font-weight="normal">22.26%</tspan></text>
+  <text x="33" y="150" font-size="16" font-weight="bold" fill="#fff" font-family="system-ui, -apple-system, sans-serif">Rust  <tspan font-size="13" fill="#B6B6B6" font-weight="normal">23.76%</tspan></text>
   <rect class="bar" style="--w: 200.000000px" x="195" y="140" width="200.000000" height="12" fill="url(#gradient)" />
 </g>
 
 <g transform="translate(0, 30)" class="langRow">
-  <text x="33" y="150" font-size="16" font-weight="bold" fill="#fff" font-family="system-ui, -apple-system, sans-serif">TypeScript  <tspan font-size="13" fill="#B6B6B6" font-weight="normal">12.31%</tspan></text>
-  <rect class="bar" style="--w: 111.000000px" x="195" y="140" width="111.000000" height="12" fill="url(#gradient)" />
+  <text x="33" y="150" font-size="16" font-weight="bold" fill="#fff" font-family="system-ui, -apple-system, sans-serif">TypeScript  <tspan font-size="13" fill="#B6B6B6" font-weight="normal">12.07%</tspan></text>
+  <rect class="bar" style="--w: 102.000000px" x="195" y="140" width="102.000000" height="12" fill="url(#gradient)" />
 </g>
 
 <g transform="translate(0, 60)" class="langRow">
-  <text x="33" y="150" font-size="16" font-weight="bold" fill="#fff" font-family="system-ui, -apple-system, sans-serif">JavaScript  <tspan font-size="13" fill="#B6B6B6" font-weight="normal">7.26%</tspan></text>
-  <rect class="bar" style="--w: 65.000000px" x="195" y="140" width="65.000000" height="12" fill="url(#gradient)" />
+  <text x="33" y="150" font-size="16" font-weight="bold" fill="#fff" font-family="system-ui, -apple-system, sans-serif">JavaScript  <tspan font-size="13" fill="#B6B6B6" font-weight="normal">7.12%</tspan></text>
+  <rect class="bar" style="--w: 60.000000px" x="195" y="140" width="60.000000" height="12" fill="url(#gradient)" />
 </g>
 
 <g transform="translate(0, 90)" class="langRow">
-  <text x="33" y="150" font-size="16" font-weight="bold" fill="#fff" font-family="system-ui, -apple-system, sans-serif">Dart  <tspan font-size="13" fill="#B6B6B6" font-weight="normal">4.60%</tspan></text>
-  <rect class="bar" style="--w: 41.000000px" x="195" y="140" width="41.000000" height="12" fill="url(#gradient)" />
+  <text x="33" y="150" font-size="16" font-weight="bold" fill="#fff" font-family="system-ui, -apple-system, sans-serif">Dart  <tspan font-size="13" fill="#B6B6B6" font-weight="normal">4.51%</tspan></text>
+  <rect class="bar" style="--w: 38.000000px" x="195" y="140" width="38.000000" height="12" fill="url(#gradient)" />
 </g>
 
 <g transform="translate(0, 120)" class="langRow">
-  <text x="33" y="150" font-size="16" font-weight="bold" fill="#fff" font-family="system-ui, -apple-system, sans-serif">PHP  <tspan font-size="13" fill="#B6B6B6" font-weight="normal">3.32%</tspan></text>
-  <rect class="bar" style="--w: 30.000000px" x="195" y="140" width="30.000000" height="12" fill="url(#gradient)" />
+  <text x="33" y="150" font-size="16" font-weight="bold" fill="#fff" font-family="system-ui, -apple-system, sans-serif">PHP  <tspan font-size="13" fill="#B6B6B6" font-weight="normal">3.25%</tspan></text>
+  <rect class="bar" style="--w: 27.000000px" x="195" y="140" width="27.000000" height="12" fill="url(#gradient)" />
 </g>
 
 </svg>
