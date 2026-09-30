@@ -2,7 +2,7 @@ name: repo-spector
 
 on:
   schedule:
-    - cron: "0 0 * * 1" # Every Monday
+    - cron: "0 0 * * *" # Daily
   workflow_dispatch:
 
 jobs:
