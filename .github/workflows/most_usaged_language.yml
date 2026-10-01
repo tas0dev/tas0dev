@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "0 0 * * *" # Daily
   workflow_dispatch:
+  push:
+    paths:
+      - ".github/repo-spector-trigger"
 
 jobs:
   build:
@@ -41,5 +44,6 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "update: language stats svg"
+            git pull --rebase https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }} main
             git push https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }} HEAD:main
           fi
