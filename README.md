@@ -50,8 +50,6 @@ I contribute to the Orinium browser project.
 
 ![GitHub stats](https://github-readme-stats-seven-gamma-98.vercel.app/api?username=tas0dev)
 
-![Top languages](output/top6_lang.svg)
-
 ## Connect
 
 <a href="https://twitter.com/tas0dev" target="_blank">
