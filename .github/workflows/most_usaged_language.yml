@@ -4,9 +4,6 @@ on:
   schedule:
     - cron: "0 0 * * *" # Daily
   workflow_dispatch:
-  push:
-    paths:
-      - ".github/repo-spector-trigger"
 
 jobs:
   build:
