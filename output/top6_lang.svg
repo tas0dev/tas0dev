@@ -32,19 +32,19 @@
  <rect x="0.5" y="0.5" width="429" height="303" rx="4.5" ry="4.5" stroke="#3D444D"/>
   <text id="title" x="33" y="40" font-size="14" font-weight="bold" fill="#fff" font-family="system-ui, -apple-system, sans-serif">Most Used Languages</text>
   <text id="topLang" class="top" x="135" y="80" font-size="38" dominant-baseline="middle" text-anchor="middle" font-weight="bold" fill='#fff' font-family="system-ui, -apple-system, sans-serif">Verilog</text>
-  <text id="topPercent" class="top" x="330" y="70" font-size="28" font-weight="bold" fill='#fff' font-family="system-ui, -apple-system, sans-serif" dominant-baseline="middle" text-anchor="middle" >73.72%</text>
+  <text id="topPercent" class="top" x="330" y="70" font-size="28" font-weight="bold" fill='#fff' font-family="system-ui, -apple-system, sans-serif" dominant-baseline="middle" text-anchor="middle" >73.56%</text>
   <text id="topByte" class="top" x="330" y="95" font-size="16" font-weight="normal" fill='#fff' font-family="system-ui, -apple-system, sans-serif" dominant-baseline="middle" text-anchor="middle" >120395432 bytes</text>
 
   <rect x="14" y="115.8" width="400" height="1" fill="url(#animeGrad)" />
 
 <g transform="translate(0, 0)" class="langRow">
-  <text x="33" y="150" font-size="16" font-weight="bold" fill="#fff" font-family="system-ui, -apple-system, sans-serif">SourcePawn  <tspan font-size="13" fill="#B6B6B6" font-weight="normal">8.60%</tspan></text>
+  <text x="33" y="150" font-size="16" font-weight="bold" fill="#fff" font-family="system-ui, -apple-system, sans-serif">SourcePawn  <tspan font-size="13" fill="#B6B6B6" font-weight="normal">8.58%</tspan></text>
   <rect class="bar" style="--w: 200.000000px" x="195" y="140" width="200.000000" height="12" fill="url(#gradient)" />
 </g>
 
 <g transform="translate(0, 30)" class="langRow">
-  <text x="33" y="150" font-size="16" font-weight="bold" fill="#fff" font-family="system-ui, -apple-system, sans-serif">SystemVerilog  <tspan font-size="13" fill="#B6B6B6" font-weight="normal">3.58%</tspan></text>
-  <rect class="bar" style="--w: 83.000000px" x="195" y="140" width="83.000000" height="12" fill="url(#gradient)" />
+  <text x="33" y="150" font-size="16" font-weight="bold" fill="#fff" font-family="system-ui, -apple-system, sans-serif">SystemVerilog  <tspan font-size="13" fill="#B6B6B6" font-weight="normal">3.62%</tspan></text>
+  <rect class="bar" style="--w: 84.000000px" x="195" y="140" width="84.000000" height="12" fill="url(#gradient)" />
 </g>
 
 <g transform="translate(0, 60)" class="langRow">
@@ -53,13 +53,13 @@
 </g>
 
 <g transform="translate(0, 90)" class="langRow">
-  <text x="33" y="150" font-size="16" font-weight="bold" fill="#fff" font-family="system-ui, -apple-system, sans-serif">C  <tspan font-size="13" fill="#B6B6B6" font-weight="normal">2.57%</tspan></text>
+  <text x="33" y="150" font-size="16" font-weight="bold" fill="#fff" font-family="system-ui, -apple-system, sans-serif">C  <tspan font-size="13" fill="#B6B6B6" font-weight="normal">2.56%</tspan></text>
   <rect class="bar" style="--w: 60.000000px" x="195" y="140" width="60.000000" height="12" fill="url(#gradient)" />
 </g>
 
 <g transform="translate(0, 120)" class="langRow">
-  <text x="33" y="150" font-size="16" font-weight="bold" fill="#fff" font-family="system-ui, -apple-system, sans-serif">C#  <tspan font-size="13" fill="#B6B6B6" font-weight="normal">2.04%</tspan></text>
-  <rect class="bar" style="--w: 47.000000px" x="195" y="140" width="47.000000" height="12" fill="url(#gradient)" />
+  <text x="33" y="150" font-size="16" font-weight="bold" fill="#fff" font-family="system-ui, -apple-system, sans-serif">C#  <tspan font-size="13" fill="#B6B6B6" font-weight="normal">2.12%</tspan></text>
+  <rect class="bar" style="--w: 49.000000px" x="195" y="140" width="49.000000" height="12" fill="url(#gradient)" />
 </g>
 
 </svg>
